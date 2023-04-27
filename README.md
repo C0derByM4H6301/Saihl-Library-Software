@@ -41,8 +41,9 @@ Eğer projeye katkıda bulunmak isterseniz, lütfen öncelikle bir konu açarak 
 
 ## Bu Projede Katkısı Bulunanlar
 
-Mahmut P. (A software developer and cybersecurity enthusiast who can write code in Python. Additionally, he is the only handsome man in the school.)
-Mahmut P. (Python dilinde kod yazabilen bir yazılımcı ve siber güvenlik meraklısı. Ek olarak Okulun tek yakışıklı erkeği. )
+Mahmut P.
+English: A software developer and cybersecurity enthusiast who can write code in Python. Additionally, he is the only handsome man in the school.
+Turkish: Python dilinde kod yazabilen bir yazılımcı ve siber güvenlik meraklısı. Ek olarak Okulun tek yakışıklı erkeği. 
 
 ## Lisans
 
