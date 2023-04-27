@@ -39,6 +39,11 @@ Eğer proje hakkında bir sorunuz veya geri bildiriminiz varsa, lütfen [GitHub 
 
 Eğer projeye katkıda bulunmak isterseniz, lütfen öncelikle bir konu açarak değişikliklerinizi tartışın. Kodunuza uygun olacak şekilde önerilerinizi göndermek için bir çekme isteği gönderin.
 
+## Bu Projede Katkısı Bulunanlar
+
+Mahmut P.(A software developer and cybersecurity enthusiast who can write code in Python. Additionally, he is the only handsome man in the school.)
+Mahmut P.(Python dilinde kod yazabilen bir yazılımcı ve siber güvenlik meraklısı. Ek olarak Okulun tek yakışıklı erkeği. )
+
 ## Lisans
 
 Bu proje [MIT lisansı](https://github.com/C0derByM4H6301/Saihl-Library-Software/blob/main/LICENSE) altında lisanslanmıştır.
